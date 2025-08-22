@@ -49,10 +49,9 @@ structure(y)
 
 ```
 
-This code chunk plots the Kernel Density Estimate. The y-axis is the Kernel Density and the x-axis is the data.
-```{r}
+This code chunk plots the Kernel Density Estimate for the data.
+```{r, echo=FALSE}
 
-#| echo: false
 plot(y)
 
 ```
